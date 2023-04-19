@@ -1,0 +1,11 @@
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\bin\Debug\week8_bgt_1.exe.config
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\bin\Debug\week8_bgt_1.exe
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\bin\Debug\week8_bgt_1.pdb
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.csproj.AssemblyReference.cache
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.Form1.resources
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.Properties.Resources.resources
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.csproj.GenerateResource.cache
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.csproj.CoreCompileInputs.cache
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.exe
+C:\Users\slymn\source\repos\week8_bgt_1\week8_bgt_1\obj\Debug\week8_bgt_1.pdb
